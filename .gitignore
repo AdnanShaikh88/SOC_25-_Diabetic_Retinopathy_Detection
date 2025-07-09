@@ -1,0 +1,18 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.venv/
+uploads/
+dr_model.h5
+*.sqlite3
+*.log
+.idea/
+.vscode/
+*.h5
+*.hdf5
+*.bak
